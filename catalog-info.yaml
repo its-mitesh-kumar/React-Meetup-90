@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: React-Meetup-90
+  annotations:
+    github.com/project-slug: its-mitesh-kumar/React-Meetup-90
+spec:
+  type: other
+  lifecycle: unknown
+  owner: user:default/guest
